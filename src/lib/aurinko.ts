@@ -1,4 +1,3 @@
-// app/_lib/getAurinkoAuthUrl.ts
 'use server'
 
 import { auth } from "@clerk/nextjs/server"
